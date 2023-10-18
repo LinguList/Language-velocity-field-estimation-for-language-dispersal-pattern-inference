@@ -1,5 +1,5 @@
 # Language-velocity-field-estimation-for-language-dispersal-pattern-inference
-R package and tutorial for the language velocity field estimation (LVF).
+R package and tutorial of the language velocity field estimation (LVF).
 
 This respority contains three files:
 1. Supplementary_Materials: Datasets: The datasets of four language cases utilized in this study. The detailed information can be found in README within this file.
